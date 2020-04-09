@@ -1,5 +1,5 @@
 def hello
-  puts "おはよう"
+  p "hello, GitHub Desktop."
 end
 
 hello
